@@ -48,7 +48,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 </p>
 
 <p>
-<img width="691" alt="Screen Shot 2023-06-25 at 12 17 41 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/ba93e774-64a3-4ae4-925f-bf393ad5af53"></p>
+<img width="691" alt="Screenshot 2023-09-21 115326" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/330ab7f9-507e-4caa-9fbd-8793dcb77a3c"></p>
 
 **_Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
 

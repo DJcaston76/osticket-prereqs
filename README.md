@@ -132,7 +132,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 <br/>
 
 <p>
-<img width="500" alt="Screen Shot 2023-06-25 at 12 42 16 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/d5432980-7d50-4df6-b88e-7f7b1693df2a">
+<img width="500" alt="Screenshot 2023-09-21 123716" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/90e1f489-5354-4fe8-bd09-5e292035bde4">
 
 **_Make sure you launch the Configuration Wizard after installing MySQL._**
 </p>

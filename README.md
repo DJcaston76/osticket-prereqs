@@ -1,4 +1,4 @@
-<img width="790" alt="Screen Shot 2023-07-05 at 12 01 33 AM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/9d475e2d-2ba0-422e-aea6-341fd57d7fc6">
+<img width="790" alt="Screenshot 2023-09-21 164350" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/0b1fa85e-edf1-4d3b-9fae-dd18a895b39c">
 <h1>osTicket - Prerequisites and Installation</h1>
 This is a guide of the installation and set up for the open-source ticketing software, osTicket. You can use this guide to follow along and even try it for yourself.<br />
 

@@ -34,7 +34,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 **Step 1: Create the VM within Microsoft Azure**
 - Create a resource group called "RG-osTicket"
 - Create a VM called "vm-osticket"
-- Use Windows 10 Pro, version 22H2 and Standard_D4s_v3 - 4cpus, 16 GiB memory
+- Use Windows 10 Pro, version 22H2 and Standard_D4s_v3 - 2cpus, 16 GiB memory
 - Make sure it auto populates to "RG-osTicket" for its resource group before the "Review and Create" step
 - Note the username and password you're creating for your Windows 10 Virtual Machine
 

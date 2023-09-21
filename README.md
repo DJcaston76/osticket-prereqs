@@ -93,11 +93,11 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 
 **Step 4: Test IIS**
 - Open a web broswer tab and type in "127.0.0.1"
-- To ensure IIS enabled, you should see something similar to the browser on the right, below
+- To ensure IIS enabled, you should see something similar to photo of the browser below
 <br/>
 
 <p>
-<img width="797" alt="Screen Shot 2023-06-26 at 10 03 05 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/3ad1c78e-d865-4149-a072-accd8a18f869">
+<img width="797" alt="Screenshot 2023-09-21 122035" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/56b2020b-979f-44d2-b0cf-b80de338b4ce">
 </p>
 
 **_Visit 127.0.0.1 in the browser. After installing IIS, it should look like the one on the right._**

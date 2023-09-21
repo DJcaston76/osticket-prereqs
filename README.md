@@ -142,7 +142,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 **Step 7: Make Changes in the IIS Admin Panel**
 - Search for IIS > Right click it to run it as admin
 - At the "vm-osticket" level, open the PHP Manager > Select a principal > browse to and open the "php.cgi" file
-- At rhe "vm-osticket" level, restart the server from the right sidebar menu
+- At the "vm-osticket" level, restart the server from the right sidebar menu
 
 <br/>
 

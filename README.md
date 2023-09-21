@@ -187,7 +187,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 
 <br/>
 
-<img width="601" alt="Screen Shot 2023-06-25 at 12 59 11 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/018602fe-a6e9-4e3c-82e1-82a3811524fa">
+<img width="601" alt="Screenshot 2023-09-21 154531" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/bdcdbb90-31e4-4631-a194-4b1554a1947e">
 
 **_This is what it looks like before enabling the three PHP extensions._**
 

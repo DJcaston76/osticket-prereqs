@@ -84,7 +84,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 **_Navigate to "Turn Windows Features on or off"._**
 
 <p>
-<img width="746" alt="Screen Shot 2023-06-25 at 12 26 53 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/4834477e-e41c-47c8-bfd2-7356fa3a7d8b">
+<img width="746" alt="Screenshot 2023-09-21 121653" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/e0aaebe8-aef0-43a8-a975-533d0816a30f">
 </p>
 
 **_Under Internet Information Services, make sure to turn on Web Management Tools if they're not checked._**

@@ -169,7 +169,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 
 **_Drag the "Upload" folder over to "wwwroot" and rename it to "osTicket"._**
 
-<img width="1036" alt="Screen Shot 2023-06-25 at 12 54 11 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/8138f47e-57a8-4fd3-bc92-f5f140847e6c">
+<img width="1036" alt="Screenshot 2023-09-21 130832" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/f3a08ea9-6d98-4143-b6fc-dd13cf569233">
 
 **_Click "Browse *:80" on the right sidebar so that it opens in the web browser._**
 

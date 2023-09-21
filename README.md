@@ -1,13 +1,13 @@
 <img width="790" alt="Screen Shot 2023-07-05 at 12 01 33 AM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/9d475e2d-2ba0-422e-aea6-341fd57d7fc6">
 <h1>osTicket - Prerequisites and Installation</h1>
-This is a walkthrough of the installation and set up for the open-source ticketing software, osTicket. You can use this walkthrough to follow along and even try it for yourself.<br />
+This is a guide of the installation and set up for the open-source ticketing software, osTicket. You can use this guide to follow along and even try it for yourself.<br />
 
 <h2>Introduction to osTicket</h2>
-<p>With osTicketing software, end users and help desk agents can collaborate on support requests. During this setup, we’ll be installing osTicket, along with the necessary requirements for it to work properly for our use case.
+<p>Using the osTicketing software, end users and IT Support agents can work together on support requests. In this guide, we’ll be installing osTicket, along with the necessary requirements for it to work properly for our use case.
 </p>
 
 <p>
-In related walk throughs, we’ll configure the settings for the software and work through an example ticket.
+In the upcoming guides, we’ll  be configuring the settings for the software and work through an example ticket.
 </p>
 
 <h2>Environments and Technologies Used</h2>
@@ -36,14 +36,14 @@ In related walk throughs, we’ll configure the settings for the software and wo
 - Create a VM called "vm-osticket"
 - Use Windows 10 Pro, version 22H2 and Standard_D4s_v3 - 4cpus, 16 GiB memory
 - Make sure it auto populates to "RG-osTicket" for its resource group before the "Review and Create" step
-- Note the username and password you're creating for Windows 10
+- Note the username and password you're creating for your Windows 10 Virtual Machine
 
 <br/>
 
 <p>
 <img width="812" alt="Screen Shot 2023-06-25 at 12 16 22 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/c17f13b1-04be-4c8d-ba37-f9db0340b4db"></p>
 
-**_These are the settings you can use to create your VM, depending on your location. Use a different location, if necessary._**
+**_These are recommended settings to use when creating your VM, depending on your location. Use a different location, if necessary._**
 
 </p>
 
@@ -232,4 +232,4 @@ In related walk throughs, we’ll configure the settings for the software and wo
 <h2>Next Steps</h2>
 
 Now that the prerequisites are set up, continue to the second part for configuration.
-[Post-install Configuration](https://github.com/yeahglo/post-install-config)
+[Post-install Configuration](https://github.com/DJcaston76/post-install-config)

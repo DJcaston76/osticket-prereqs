@@ -78,7 +78,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 <br/>
 
 <p>
-<img width="778" alt="Screen Shot 2023-06-25 at 12 24 54 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/650ba206-1435-4cbd-87a7-5622e959a694">
+<img width="778" alt="Screenshot 2023-09-21 121239" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/a39b42e2-91a9-43f2-86b5-16925b75ec75">
 </p>
 
 **_Navigate to "Turn Windows Features on or off"._**

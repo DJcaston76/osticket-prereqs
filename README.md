@@ -165,7 +165,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 
 <br/>
 
-<img width="1230" alt="Screen Shot 2023-06-25 at 12 47 14 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/1a13b8ef-070e-485d-aec7-277af282d283">
+<img width="1230" alt="Screenshot 2023-09-21 130439" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/2656485a-a037-4a49-9b84-1188527ff5d4">
 
 **_Drag the "Upload" folder over to "wwwroot" and rename it to "osTicket"._**
 

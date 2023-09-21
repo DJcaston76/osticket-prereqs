@@ -41,7 +41,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 <br/>
 
 <p>
-<img width="812" alt="Screenshot 2023-09-21 115326" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/d8e1ef46-a694-4fb7-bdb1-439e5ccc170d"></p>
+<img width="812" alt="Screenshot 2023-09-21 115654" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/2ecbf674-28dc-47cc-b7c3-743f68fb97bb"></p>
 
 **_These are recommended settings to use when creating your VM, depending on your location. Use a different location, if necessary._**
 

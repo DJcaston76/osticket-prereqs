@@ -115,7 +115,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 <br/>
 
 <p>
-<img width="935" alt="Screen Shot 2023-06-26 at 4 54 13 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/0da5b2b3-1750-4f49-8c4c-69e371bfff67">
+<img width="935" alt="Screenshot 2023-09-21 122649" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/73acfee5-ce2b-4b70-9f70-d56ed2b76b32">
 </p>
 
 **_When you're installing files, you'll need to accept their terms and make sure you download files onto your VM._**

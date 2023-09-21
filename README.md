@@ -147,7 +147,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 <br/>
 
 <p>
-<img width="1039" alt="Screen Shot 2023-06-25 at 12 45 47 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/01d2b90c-94cc-4d71-84fb-3925afb9ca70">
+<img width="1039" alt="Screenshot 2023-09-21 124242" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/355e1a40-e085-4ad2-809c-7558393c28f9">
 </p>
 
 **_Click "Register new PHP version"._**

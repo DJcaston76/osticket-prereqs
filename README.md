@@ -211,7 +211,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 
 <br/>
 
-<img width="935" alt="Screen Shot 2023-06-25 at 1 35 35 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/c21a7d33-6683-4f79-8a6f-caed8a05dc4a">
+<img width="935" alt="Screenshot 2023-09-21 162242" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/11dad3ef-8615-4813-a1db-1f0f68b60a36">
 
 **_Create a new database called "osTicket"._**
 

@@ -225,7 +225,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 
 <br/>
 
-<img width="606" alt="Screen Shot 2023-06-25 at 1 37 45 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/8e5c48a9-4201-4930-b0f3-ae36b32f69c9">
+<img width="606" alt="Screenshot 2023-09-21 162611" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/a8833af1-880d-48d8-bc82-b06ba212dc3b">
 
 **_Success! Make sure to copy these links for the next step._**
 

@@ -61,10 +61,10 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 <br/>
 
 <p>
-<img width="835" alt="Screen Shot 2023-06-25 at 12 21 31 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/16904f4f-b371-4903-9719-703e74ffea4c">
+<img width="835" alt="Screenshot 2023-09-21 120723" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/2dbc5354-9955-4815-b1c1-7530f19b78ed">
 </p>
 
-**_This what RDP looks like on a Mac. You'll use the username and password you created when you set up Windows in the VM, here._**
+**_This what RDP looks like on a Windows. You'll use the username and password you created when you set up Windows in the VM, here._**
 
 <br/>
 

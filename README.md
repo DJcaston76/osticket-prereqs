@@ -100,7 +100,7 @@ In the upcoming guides, we’ll  be configuring the settings for the software an
 <img width="797" alt="Screenshot 2023-09-21 122035" src="https://github.com/DJcaston76/osticket-prereqs/assets/145403292/56b2020b-979f-44d2-b0cf-b80de338b4ce">
 </p>
 
-**_Visit 127.0.0.1 in the browser. After installing IIS, it should look like the one on the right._**
+**_After installing IIS, it should look like the browser above._**
 
 <br/>
 
